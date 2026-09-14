@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hola, soy <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Saurabh</a></h1>
+<h3 align="center">Estudiante de Ingeniería Civil en Computación de la Universidad de Chile</h3>
 
-<!--
-**santiaagoe/santiaagoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- En la actualidad, me encuentro investigando vulnerabilidades de seguridad, específicamente en el ámbito de la inyección de prompts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Experiencia en modelos de Machine Learning y proyectos de IA.
+
+- Teléfono: **+56 9 4125 7056**
+
+- Correo: **santiago.espinoza.correa@gmail.com**
+<div align="center" class="icons-social">
+  
+  <!-- Enlace a LinkedIn-->
+  <a href="https://www.linkedin.com/in/santiaago.e/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
+  </a>
+  
+  <!-- Enlace a WhatsApp -->
+  <a href="https://wa.me/569941257056" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/color/40/000000/whatsapp--v1.png" alt="WhatsApp">
+  </a>
+
+</div>
