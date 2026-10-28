@@ -1,8 +1,10 @@
 <h1 align="center">Hola, soy <a href="https://github.com/santiaagoe" target="_blank" rel="noopener noreferrer">Santiago Espinoza</a></h1>
 <h3 align="center">Estudiante de Ingeniería Civil en Computación de la Universidad de Chile</h3>
 
-- En la actualidad, me encuentro investigando vulnerabilidades de seguridad, específicamente en el ámbito de prompt injection y jailbreaking 
+- En la actualidad, me encuentro investigando vulnerabilidades de seguridad, específicamente en el ámbito de prompt injection y jailbreaking .
+- Segundo lugar hackaton AWS Breaking Barriers 2026.
 - Experiencia en modelos de Machine Learning, proyectos de IA y NLP.
+- Experiencia en chatbots con MCP
 - Teléfono: **+56 9 4125 7056**
 - Correo: **santiago.espinoza.correa@gmail.com**
 
